@@ -1,0 +1,17 @@
+Images
+
+1. Bill Gates - https://commons.wikimedia.org/wiki/File:Bill_Gates_2018.jpg
+2. Rana Al Kaliouby - http://www.zimbio.com/photos/Rana+El+Kaliouby/Trust+Computer+Premiere/ehWRKubXT0A
+3. Jeff Bezos - https://www.businessinsider.com/jeff-bezos-amazon-customer-service-2018-4
+4. Tim Cook - https://www.businessinsider.com/apple-ceo-tim-cook-doesnt-let-nephew-use-social-media-2018-1
+5. Brian Brackeen - https://everipedia.org/wiki/lang_en/brian-brackeen/
+6. Sundar Pichai - http://fortune.com/2016/02/09/google-sundar-pichai-stock-grant/
+
+
+Code
+1. Affectiva:
+  - https://github.com/cosanlab/affectiva-api-app
+  - https://github.com/Affectiva/js-sdk-sample-apps
+
+2. AWS Rekognition
+  - 
